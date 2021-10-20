@@ -1,4 +1,4 @@
 # heartbeat
 Draw heartbeat from webcam video stream 
 
-useless due to the slowness and complexity of installation 
+Useless due to the opevcv's slowness and complexity of installation 
